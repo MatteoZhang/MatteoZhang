@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Solidity Programming
 - 👯 I’m looking to collaborate on NFTs
 - 🤔 I’m looking for help with Javascript
-- 💬 Ask me about NFT collab
+- 💬 Ask me about Python
 - 📫 How to reach me: matteo.zh@gmail.com
 - ⚡ Fun fact: I know little Wenzhounese (Chinese dialect)
 
